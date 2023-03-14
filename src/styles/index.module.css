@@ -1,9 +1,18 @@
-.wrapper {
-    margin: 15% auto;
-    max-width: 720px;
-    text-align: center;
+.body{
+    font-family: 'Inter';
+    background: #FAFAFA;
 }
+.container {
+    display: flex;
+    flex-direction: row;
+    background: #FAFAFA;
 
-.wrapper h1 {
-    font-weight: 500;
-}
+  }
+  
+  .right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-end;
+
+  }
