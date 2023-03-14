@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import styles from '../../styles/section.module.css';
+import styles from '../../styles/animals.module.css';
 
 type SectionProps = {
   title: string;
